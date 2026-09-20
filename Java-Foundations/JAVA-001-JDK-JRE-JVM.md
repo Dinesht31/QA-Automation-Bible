@@ -1,6 +1,6 @@
 #1.Explain JDK, JRE, and JVM using the kitchen analogy.
 
-### Kitchen Analogy for JDK, JRE and JVM
+## Kitchen Analogy for JDK, JRE and JVM
 
 Imagine I want to prepare tea in a kitchen.
 
